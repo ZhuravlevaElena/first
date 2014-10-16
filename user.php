@@ -5,4 +5,15 @@
  * Date: 16.10.2014
  * Time: 21:00
  */
-echo "fsdfdsf";
+class MyUser {
+  public function getType() {
+
+  }
+  public function getId() {
+
+  }
+  protected function get() {
+
+  }
+
+}
